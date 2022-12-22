@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#div.tittle{
+    border: 5px outset rgb(212, 228, 241);
+    background-color:blueviolet;
+    text-align: center;
+}
+
+#MyLifeStyle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:rgb(212, 228, 241);
+}
+
+.Img{
+    width: 250px;
+    height: 250px;
+    align-items: center;
+}
+
+.subt{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aqua;
+text-align: center;
+}
